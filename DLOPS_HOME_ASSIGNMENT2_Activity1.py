@@ -70,3 +70,4 @@ print("\nLeaky ReLU:")
 print([leaky_relu(value) for value in random_values])
 print("\nTanh:")
 print([tanh(value) for value in random_values])
+
